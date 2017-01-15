@@ -1,0 +1,29 @@
+{
+  "name": "pipe-chain",
+  "version": "1.0.0",
+  "description": "Simple chainable object.",
+  "main": "pipe.js",
+  "types": "pipe.d.ts",
+  "scripts": {
+    "test": "mocha -r ts-node/register test.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MKGaru/pipe-chain.git"
+  },
+  "keywords": [
+    "pipe",
+    "chainable",
+    "stream"
+  ],
+  "author": "MKGaru",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chai": "^3.4.34",
+    "@types/mocha": "^2.2.37",
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "ts-node": "^2.0.0",
+    "typescript": "^2.1.5"
+  }
+}
