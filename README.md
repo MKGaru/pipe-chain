@@ -1,5 +1,7 @@
 pipe-chain
 ==========
+[![Build Status](https://travis-ci.org/MKGaru/pipe-chain.svg?branch=master)](https://travis-ci.org/MKGaru/pipe-chain)
+[![npm version](https://badge.fury.io/js/pipe-chain.svg)](https://badge.fury.io/js/pipe-chain)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
 Simple chainable object.
