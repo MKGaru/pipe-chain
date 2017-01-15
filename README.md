@@ -22,6 +22,8 @@ Usage
   .pipe(Math.sqrt)                  // -> 2
 ```` 
 
+[demo](https://runkit.com/587b1ea02c363d0014cc2d35/587b92d2fa7a4800143de957)
+
   
 Instal
 ---------------------------------
